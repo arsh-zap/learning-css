@@ -1,0 +1,10 @@
+html, body{
+    height: 100%;
+}
+
+body {
+    background-image: url('../images/pexels-optical-chemist-340351297-31318016\ \(1\).jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
