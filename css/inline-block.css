@@ -1,0 +1,17 @@
+span {
+    width: 60px;
+    height: 50px;
+    padding: 10px;
+    margin: 20px;
+    text-align: center;
+    border: 5px solid brown;
+    background-color: aliceblue;
+}
+
+span.myname {
+    display: inline-block;
+}
+
+div.tungtung{
+    display: inline;
+}

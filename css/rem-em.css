@@ -1,0 +1,31 @@
+.parent-box {
+    width: 500px;
+    border: 2px solid black;
+    height: 50px;
+}
+
+.child-box {
+    border: 2px solid black;
+    width: 50%;
+    height: 50px;
+}
+
+.parent {
+    border: 2px solid brown;
+    width: 5em;
+    height: 50px;
+}
+
+.child {
+    border: 2px solid brown;
+    width: 5em;
+    height: 50px;
+}
+
+html {
+    font-size: 10px;
+}
+
+p{
+    font-size: 2rem;
+}
