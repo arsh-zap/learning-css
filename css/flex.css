@@ -1,0 +1,31 @@
+.container{
+    margin: 10px;
+    display: flex;
+    background-color:black;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+.container div{
+    background-color: blueviolet;
+    padding: 20px;
+    margin: 10px;
+    font-size: 20px;
+    width: 50px;
+}
+
+.table{
+    display: flex;
+    background-color: aliceblue;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.table div{
+    background-color: aqua;
+    padding: 20px;
+    margin: 10px;
+    font-size: 20px;
+    width: 50px;
+}
