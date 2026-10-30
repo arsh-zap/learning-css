@@ -1,0 +1,17 @@
+.container{
+    display: grid;
+    justify-content: center;
+    grid-template-columns: auto auto auto;
+    background-color: aqua;
+    background-color: dodgerblue;
+    padding: 5px;
+    gap: 5px;
+}
+
+.container div{
+    background-color: burlywood;
+    padding: 10px;
+    font-size: 30px;
+    text-align: center;
+    color: #000;
+}

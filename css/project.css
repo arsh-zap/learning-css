@@ -1,0 +1,9 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    background-color: yellow;
+    font-family: Verdana;
+    text-align: center;
+}

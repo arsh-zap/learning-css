@@ -1,0 +1,17 @@
+.link{
+    background-color: blue;
+    color: black;
+    padding: 20px;
+    text-align: center;
+    font-size: 30px;
+    font-family: "Playwrite IT Trad", cursive;
+}
+
+@media (min-width: 768px){
+    .link{
+        background-color: yellow;
+        padding: 50px;
+        font-size: 30px;
+    }
+
+}
